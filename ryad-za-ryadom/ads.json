@@ -1,5 +1,5 @@
 {
   "ads_enabled": true,
-  "interstitial_per_day": 2,
-  "interstitial_interval_hours": 7
+  "interstitial_per_day": 4,
+  "interstitial_interval_hours": 1
 }
